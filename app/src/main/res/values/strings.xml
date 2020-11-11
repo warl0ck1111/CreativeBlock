@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Creative Block</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Note</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+</resources>
